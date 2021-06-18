@@ -10,7 +10,7 @@ redirect_from:
 
 Hi :)
 
-I am Nastaran, a 1st year Ph.D student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and I am very fortunate to be advised by [Manuel Gomez-Rodriguez](https://manuelgr@mpi-sws.org). I am generally working on Human-Centered Machine Learning and more specifically, I am interested in designing machine learning algorithms which are able to operate under different automation levels. Under this setting, a machine model is only optimized to predict a fraction of instances and the remainings are deferred to humans. 
+I am Nastaran (نسترن), a 1st year Ph.D student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and I am very fortunate to be advised by [Manuel Gomez-Rodriguez](https://manuelgr@mpi-sws.org). I am generally working on Human-Centered Machine Learning and more specifically, I am interested in designing machine learning algorithms which are able to operate under human assistance or in other words, operate under different automation levels. 
 
 
 
