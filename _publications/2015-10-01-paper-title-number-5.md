@@ -6,4 +6,3 @@ date: 2018-01-01
 paperurl: 'https://www.ijcai.org/Proceedings/2018/0653.pdf'
 ---
 
-[Download paper here](https://www.ijcai.org/Proceedings/2018/0653.pdf)
