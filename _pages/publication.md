@@ -27,10 +27,10 @@ author_profile: true
   Abir De, Nastaran Okati, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
 1. [Efficient Parameterized Algorithms for Data Packing](https://dl.acm.org/doi/pdf/10.1145/3290366)  
   *46th ACM Symposium on Principles of Programming Languages, POPL 2019*  
-  Krishnendu Chatterjee, Amir Goharshady, Nastaran Okati and Andreas Pavlogiannis (Author order Alphabetical)  
+  Krishnendu Chatterjee, Amir Goharshady, Nastaran Okati and Andreas Pavlogiannis (Alphabetical Author order)  
 1. [Computational Approaches for Stochastic Shortest Path on Succinct MDPs](https://www.ijcai.org/Proceedings/2018/0653.pdf)  
   *27th International Joint Conference on Artificial Intelligence, IJCAI 2018*  
-  Krishnendu Chatterjee, Hongfei Fu2, Amir Goharshady, and Nastaran Okati (Author order Alphabetical)  
+  Krishnendu Chatterjee, Hongfei Fu2, Amir Goharshady, and Nastaran Okati (Alphabetical Author order)  
   
 ### Workshops
 1. [Classification Under Human Assistance](https://dynamicdecisions.github.io/)  
