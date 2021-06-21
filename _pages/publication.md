@@ -15,14 +15,15 @@ author_profile: true
 1. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf)  
   Nastaran Okati, Abir De, and Manuel Gomez-Rodriguez
 1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)
-  Abir De, Nastaran Okati, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez (∗Preliminary version of this work appeared in [AAAI 2020](https://ojs.aaai.org//index.php/AAAI/article/view/5645)*)
+  Abir De, Nastaran Okati, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez 
+  (*Preliminary version of this work appeared in [AAAI 2020](https://ojs.aaai.org//index.php/AAAI/article/view/5645)*)
 
 <!-- ### Journals -->
 
 ### Conferences
 1. [Classification Under Human Assistance](https://ojs.aaai.org/index.php/AAAI/article/view/16738)  
   *35th AAAI Conference on Artificial Intelligence, AAAI 2021*   
-  Abir De, Nastaran Okati, Ali Zare-zadeh and Manuel Gomez-Rodriguez  
+  Abir De, Nastaran Okati, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
 1. [Efficient Parameterized Algorithms for Data Packing](https://dl.acm.org/doi/pdf/10.1145/3290366)  
   *46th ACM Symposium on Principles of Programming Languages, POPL 2019*  
   Krishnendu Chatterjee, Amir Goharshady, Nastaran Okati and Andreas Pavlogiannis (Author order Alphabetical)
