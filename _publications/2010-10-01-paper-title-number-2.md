@@ -7,4 +7,3 @@ venue: 'AAAI'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/16738'
 ---
 
-[Download paper here](https://ojs.aaai.org/index.php/AAAI/article/view/16738)
