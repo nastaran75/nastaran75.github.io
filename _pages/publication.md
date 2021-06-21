@@ -14,7 +14,8 @@ author_profile: true
 ### Preprints
 1. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf)  
   Nastaran Okati, Abir De, and Manuel Gomez-Rodriguez
-1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
+1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)
+  ∗Preliminary version of this work appeared in [AAAI 2020](https://ojs.aaai.org//index.php/AAAI/article/view/5645)
   Abir De, Nastaran Okati, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez
 
 <!-- ### Journals -->
@@ -24,10 +25,10 @@ author_profile: true
   *35th AAAI Conference on Artificial Intelligence, AAAI 2021*   
   Abir De, Nastaran Okati, Ali Zare-zadeh and Manuel Gomez-Rodriguez  
 1. [Efficient Parameterized Algorithms for Data Packing](https://dl.acm.org/doi/pdf/10.1145/3290366)  
-  *46th ACM Symposium on Principles of Programming Languages, POPL 2019  
+  *46th ACM Symposium on Principles of Programming Languages, POPL 2019*  
   Krishnendu Chatterjee, Amir Goharshady, Nastaran Okati and Andreas Pavlogiannis (Author order Alphabetical)
 1. [Computational Approaches for Stochastic Shortest Path on Succinct MDPs](https://www.ijcai.org/Proceedings/2018/0653.pdf)  
-  *27th International Joint Conference on Artificial Intelligence, IJCAI 2018
+  *27th International Joint Conference on Artificial Intelligence, IJCAI 2018*
   Krishnendu Chatterjee, Hongfei Fu2, Amir Goharshady, and Nastaran Okati (Author order Alphabetical)
   
 ### Workshops
