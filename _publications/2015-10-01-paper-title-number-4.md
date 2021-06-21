@@ -7,4 +7,3 @@ venue: 'POPL'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3290366'
 ---
 
-[Download paper here](https://dl.acm.org/doi/pdf/10.1145/3290366)
