@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nastaran Okati"
   avatar           : "profile.png"
-  bio              : "PhD Student at the Max Planck Institute for Software Systems"
+  bio              : "PhD Student at the <a style='color: black;' href='https://mpi-sws.org'>Max Planck Institute for Software Systems</a>"
   location         : "Kaiserslautern, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3ETK8Z8AAAAJ&hl=en"
-  email            : 
+  email            : "nastaran[at]mpi-sws[dot]org
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
@@ -197,11 +197,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
-      read_time: false
-      comments: false
-      share: false
-      related: false
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -215,9 +215,9 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: false
-      share: false
-      comments: false
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -233,17 +233,17 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
-      share: false
-      comment: false
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: false
-      share: false
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
