@@ -15,8 +15,7 @@ author_profile: true
 1. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf)  
   Nastaran Okati, Abir De, and Manuel Gomez-Rodriguez
 1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)
-  Abir De, Nastaran Okati, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez
-  (∗Preliminary version of this work appeared in [AAAI 2020](https://ojs.aaai.org//index.php/AAAI/article/view/5645)*)
+  Abir De, Nastaran Okati, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez (∗Preliminary version of this work appeared in [AAAI 2020](https://ojs.aaai.org//index.php/AAAI/article/view/5645)*)
 
 <!-- ### Journals -->
 
