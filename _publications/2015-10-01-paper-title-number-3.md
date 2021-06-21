@@ -6,5 +6,4 @@ date: 2021-01-01
 paperurl: 'https://arxiv.org/abs/1909.02963'
 ---
 
-[Download paper here](https://arxiv.org/abs/1909.02963)
 
