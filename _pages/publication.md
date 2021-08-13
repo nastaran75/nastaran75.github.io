@@ -33,6 +33,10 @@ author_profile: true
   Krishnendu Chatterjee, Hongfei Fu, Amir Goharshady, and Nastaran Okati (Alphabetical Author Order)  
   
 ### Workshops
-1. [Classification Under Human Assistance](https://dynamicdecisions.github.io/)  
+1. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf)  
+  *Workshop on Human in the Loop Machine Learning, ICML 2021*  
+  Nastaran Okati, Abir De and Manuel Gomez-Rodriguez
+  
+2. [Classification Under Human Assistance](https://dynamicdecisions.github.io/)  
   *Workshop on Consequential Decision Making in Dynamic Environments, NeurIPS 2020*  
   Abir De, Nastaran Okati, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
