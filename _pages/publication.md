@@ -25,9 +25,7 @@ author_profile: true
 1. [Classification Under Human Assistance](https://ojs.aaai.org/index.php/AAAI/article/view/16738)  
   *35th AAAI Conference on Artificial Intelligence, AAAI 2021*   
   Abir De, Nastaran Okati, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
-1. [Efficient Parameterized Algorithms for Data Packing](https://dl.acm.org/doi/pdf/10.1145/3290366)  	```diff
-+ IEEE Best Student Paper Award
-```
+1. [Efficient Parameterized Algorithms for Data Packing](https://dl.acm.org/doi/pdf/10.1145/3290366)##IEEE Best Student Paper Award
   *46th ACM Symposium on Principles of Programming Languages, POPL 2019*  
   Krishnendu Chatterjee, Amir Goharshady, Nastaran Okati and Andreas Pavlogiannis (Alphabetical Author Order)  
 1. [Computational Approaches for Stochastic Shortest Path on Succinct MDPs](https://www.ijcai.org/Proceedings/2018/0653.pdf)  
