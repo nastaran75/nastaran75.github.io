@@ -11,17 +11,13 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-### Preprints
-1. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf)  
-  Nastaran Okati, Abir De, and Manuel Gomez-Rodriguez
-1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
-  Abir De, Nastaran Okati, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez   
-  *Preliminary version of this work appeared in [AAAI 2020](https://ojs.aaai.org//index.php/AAAI/article/view/5645)*  
-
 
 <!-- ### Journals -->
 
 ### Conferences
+1. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf) 
+  *35th Conference on Neural Information Processing Systems, NeurIPS 2021* 
+  Nastaran Okati, Abir De, and Manuel Gomez-Rodriguez
 1. [Classification Under Human Assistance](https://ojs.aaai.org/index.php/AAAI/article/view/16738)  
   *35th AAAI Conference on Artificial Intelligence, AAAI 2021*   
   Abir De, Nastaran Okati, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
@@ -40,3 +36,8 @@ author_profile: true
 2. [Classification Under Human Assistance](https://dynamicdecisions.github.io/)  
   *Workshop on Consequential Decision Making in Dynamic Environments, NeurIPS 2020*  
   Abir De, Nastaran Okati, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
+  
+### Preprints
+1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
+  Abir De, Nastaran Okati, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez   
+  *Preliminary version of this work appeared in [AAAI 2020](https://ojs.aaai.org//index.php/AAAI/article/view/5645)*  
