@@ -41,6 +41,7 @@ author_profile: true
   *Workshop on Consequential Decision Making in Dynamic Environments, NeurIPS 2020*  
   Abir De, Nastaran Okati, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
   [code](https://github.com/Networks-Learning/classification-under-assistance)  
+  
 ### Preprints
 1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
   Abir De, Nastaran Okati, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez   
