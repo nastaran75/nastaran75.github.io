@@ -18,6 +18,7 @@ author_profile: true
 1. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf)  
   *35th Conference on Neural Information Processing Systems, NeurIPS 2021*  
   Nastaran Okati, Abir De, and Manuel Gomez-Rodriguez  
+  [code](https://github.com/Networks-Learning/differentiable-learning-under-triage)  
 1. [Classification Under Human Assistance](https://ojs.aaai.org/index.php/AAAI/article/view/16738)  
   *35th AAAI Conference on Artificial Intelligence, AAAI 2021*   
   Abir De, Nastaran Okati, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
