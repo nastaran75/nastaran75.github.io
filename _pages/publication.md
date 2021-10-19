@@ -35,7 +35,7 @@ author_profile: true
 ### Workshops
 1. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf)  
   *Workshop on Human in the Loop Machine Learning, ICML 2021*  
-  Nastaran Okati, Abir De and Manuel Gomez-Rodriguez
+  Nastaran Okati, Abir De and Manuel Gomez-Rodriguez  
   [code](https://github.com/Networks-Learning/differentiable-learning-under-triage)  
   
 2. [Classification Under Human Assistance](https://dynamicdecisions.github.io/)  
