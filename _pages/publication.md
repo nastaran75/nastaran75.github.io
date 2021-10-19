@@ -47,4 +47,4 @@ author_profile: true
 1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
   Abir De, Nastaran Okati, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez   
   *Preliminary version of this work appeared in [AAAI 2020](https://ojs.aaai.org//index.php/AAAI/article/view/5645)*  
-  [code](https://github.com/Networks-Learning/regression-under-assistance)  
+  [code](https://github.com/Networks-Learning/regression-under-assistance), [slides](https://drive.google.com/file/d/1jUYm36Uelg3G21QswoqcSj-e9X0NN40O/view)  
