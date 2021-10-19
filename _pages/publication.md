@@ -23,13 +23,14 @@ author_profile: true
   *35th AAAI Conference on Artificial Intelligence, AAAI 2021*   
   Abir De, Nastaran Okati, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
   [code](https://github.com/Networks-Learning/classification-under-assistance)
-1. [Efficient Parameterized Algorithms for Data Packing](https://dl.acm.org/doi/pdf/10.1145/3290366) **[IEEE Best Student Paper Award]**(https://interface.computer.org/2018-lance-stafford-larson-student-writing-award-winners/)  
+1. [Efficient Parameterized Algorithms for Data Packing](https://dl.acm.org/doi/pdf/10.1145/3290366) [**IEEE Best Student Paper Award**](https://interface.computer.org/2018-lance-stafford-larson-student-writing-award-winners/)  
   *46th ACM Symposium on Principles of Programming Languages, POPL 2019*  
   Krishnendu Chatterjee, Amir Goharshady, Nastaran Okati and Andreas Pavlogiannis (Alphabetical Author Order)  
   [code](https://github.com/Goharshady/data-packing-popl2019),  [slides](https://goharshady.com/publication/popl-2019/popl-2019-slides.pdf), [video](https://youtu.be/sh9ONHuXKUY)  
 1. [Computational Approaches for Stochastic Shortest Path on Succinct MDPs](https://www.ijcai.org/Proceedings/2018/0653.pdf)  
   *27th International Joint Conference on Artificial Intelligence, IJCAI 2018*  
-  Krishnendu Chatterjee, Hongfei Fu, Amir Goharshady, and Nastaran Okati (Alphabetical Author Order)  
+  Krishnendu Chatterjee, Hongfei Fu, Amir Goharshady, and Nastaran Okati (Alphabetical Author Order) 
+  [slides](https://goharshady.com/publication/ijcai-2018/ijcai-2018-slides.pdf)  
   
 ### Workshops
 1. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf)  
