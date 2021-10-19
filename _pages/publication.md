@@ -29,7 +29,7 @@ author_profile: true
   [code](https://github.com/Goharshady/data-packing-popl2019),  [slides](https://goharshady.com/publication/popl-2019/popl-2019-slides.pdf), [video](https://youtu.be/sh9ONHuXKUY)  
 1. [Computational Approaches for Stochastic Shortest Path on Succinct MDPs](https://www.ijcai.org/Proceedings/2018/0653.pdf)  
   *27th International Joint Conference on Artificial Intelligence, IJCAI 2018*  
-  Krishnendu Chatterjee, Hongfei Fu, Amir Goharshady, and Nastaran Okati (Alphabetical Author Order) 
+  Krishnendu Chatterjee, Hongfei Fu, Amir Goharshady, and Nastaran Okati (Alphabetical Author Order)   
   [slides](https://goharshady.com/publication/ijcai-2018/ijcai-2018-slides.pdf)  
   
 ### Workshops
