@@ -45,7 +45,7 @@ author_profile: true
   
 ### Preprints
 1. [Provably Improving Expert Predictions with Conformal Prediction](https://arxiv.org/abs/2201.12006)  
-  Eleni Straitouri, Lequng Wang, Nastaran Okati, Manuel Gomez-Rodriguez
+  Eleni Straitouri, Lequng Wang, Nastaran Okati, Manuel Gomez-Rodriguez  
   *Under Review*  
   
 2. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
