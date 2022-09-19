@@ -33,22 +33,25 @@ author_profile: true
   [slides](https://goharshady.com/publication/ijcai-2018/ijcai-2018-slides.pdf)  
   
 ### Workshops
-1. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf)  
+1. [Provably Improving Expert Predictions with Conformal Prediction](https://arxiv.org/abs/2201.12006)  
+ *Workshop on Distribution-Free Uncertainty Quantification, ICML 2022*
+  Eleni Straitouri, Lequng Wang, Nastaran Okati, Manuel Gomez-Rodriguez  
+  [code](https://github.com/Networks-Learning/improve-expert-predictions-conformal-prediction) 
+  
+2. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf)  
   *Workshop on Human in the Loop Machine Learning, ICML 2021*  
   Nastaran Okati, Abir De and Manuel Gomez-Rodriguez  
   [code](https://github.com/Networks-Learning/differentiable-learning-under-triage)  
   
-2. [Classification Under Human Assistance](https://dynamicdecisions.github.io/)  
+3. [Classification Under Human Assistance](https://dynamicdecisions.github.io/)  
   *Workshop on Consequential Decision Making in Dynamic Environments, NeurIPS 2020*  
   Abir De, Nastaran Okati, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
   [code](https://github.com/Networks-Learning/classification-under-assistance)  
   
-### Preprints
-1. [Provably Improving Expert Predictions with Conformal Prediction](https://arxiv.org/abs/2201.12006)  
-  Eleni Straitouri, Lequng Wang, Nastaran Okati, Manuel Gomez-Rodriguez  
-  *Under Review*  
+
   
-2. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
+### Preprints
+1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
   Abir De, Nastaran Okati, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez   
   *Preliminary version of this work appeared in [AAAI 2020](https://ojs.aaai.org//index.php/AAAI/article/view/5645)*  
   [code](https://github.com/Networks-Learning/regression-under-assistance), [slides](https://drive.google.com/file/d/1jUYm36Uelg3G21QswoqcSj-e9X0NN40O/view) 
