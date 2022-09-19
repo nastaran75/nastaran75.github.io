@@ -34,7 +34,7 @@ author_profile: true
   
 ### Workshops
 1. [Provably Improving Expert Predictions with Conformal Prediction](https://arxiv.org/abs/2201.12006)  
- *Workshop on Distribution-Free Uncertainty Quantification, ICML 2022*
+ *Workshop on Distribution-Free Uncertainty Quantification, ICML 2022*  
   Eleni Straitouri, Lequng Wang, Nastaran Okati, Manuel Gomez-Rodriguez  
   [code](https://github.com/Networks-Learning/improve-expert-predictions-conformal-prediction) 
   
