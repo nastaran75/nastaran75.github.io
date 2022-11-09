@@ -15,7 +15,7 @@ author_profile: true
 <!-- ### Journals -->
 
 ### Conferences
-1. [Differentiable Learning Under Triage](https://arxiv.org/pdf/2103.08902.pdf)  
+1. [Differentiable Learning Under Triage](https://openreview.net/pdf?id=bdA60x7yG0T)  
   *35th Conference on Neural Information Processing Systems, NeurIPS 2021*  
   Nastaran Okati, Abir De, and Manuel Gomez-Rodriguez  
   [code](https://github.com/Networks-Learning/differentiable-learning-under-triage), [slides](https://slideslive.com/38968175/differentiable-learning-under-triage), [video](\https://slideslive.com/38968175/differentiable-learning-under-triage)  
