@@ -15,6 +15,11 @@ author_profile: true
 <!-- ### Journals -->
 
 ### Conferences
+1. [On the Within-Group Discrimination of Screening Classifiers
+](https://arxiv.org/abs/2302.00025v1)  
+  *under review*  
+  Nastaran Okati, Stratis Tsirtsis, and Manuel Gomez-Rodriguez  
+  [code](https://github.com/nastaran75/within-group-monotonicity)  
 1. [Differentiable Learning Under Triage](https://openreview.net/pdf?id=bdA60x7yG0T)  
   *35th Conference on Neural Information Processing Systems, NeurIPS 2021*  
   Nastaran Okati, Abir De, and Manuel Gomez-Rodriguez  
