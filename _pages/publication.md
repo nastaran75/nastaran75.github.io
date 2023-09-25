@@ -16,10 +16,14 @@ author_profile: true
 
 ### Conferences
 1. [On the Within-Group Discrimination of Screening Classifiers
-](https://arxiv.org/abs/2302.00025v1)  
-  *under review*  
+](https://openreview.net/pdf?id=Eni4D5gVBq)  
+  *40th International Conference on Machine Learning, ICML 2023*  
   Nastaran Okati, Stratis Tsirtsis, and Manuel Gomez-Rodriguez  
-  [code](https://github.com/Networks-Learning/within-group-monotonicity)  
+  [code](https://github.com/Networks-Learning/within-group-monotonicity)
+1. [Improving Expert Predictions with Conformal Prediction](https://proceedings.mlr.press/v202/straitouri23a/straitouri23a.pdf)  
+ *40th International Conference on Machine Learning, ICML 2023*  
+  Eleni Straitouri, Lequng Wang, Nastaran Okati, Manuel Gomez-Rodriguez  
+  [code](https://github.com/Networks-Learning/improve-expert-predictions-conformal-prediction) 
 1. [Differentiable Learning Under Triage](https://openreview.net/pdf?id=bdA60x7yG0T)  
   *35th Conference on Neural Information Processing Systems, NeurIPS 2021*  
   Nastaran Okati, Abir De, and Manuel Gomez-Rodriguez  
@@ -38,6 +42,11 @@ author_profile: true
   [slides](https://goharshady.com/publication/ijcai-2018/ijcai-2018-slides.pdf)  
   
 ### Workshops
+1. [On the Within-Group Discrimination of Screening Classifiers
+](https://openreview.net/pdf?id=Eni4D5gVBq)  
+  *Workshop on Ethical Artificial Intelligence, KDD 2023*  
+  Nastaran Okati, Stratis Tsirtsis, and Manuel Gomez-Rodriguez  
+  [code](https://github.com/Networks-Learning/within-group-monotonicity)
 1. [Provably Improving Expert Predictions with Conformal Prediction](https://arxiv.org/abs/2201.12006)  
  *Workshop on Distribution-Free Uncertainty Quantification, ICML 2022*  
   Eleni Straitouri, Lequng Wang, Nastaran Okati, Manuel Gomez-Rodriguez  
