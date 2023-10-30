@@ -15,7 +15,7 @@ author_profile: true
 <!-- ### Journals -->
 
 ### Conferences
-1. [On the Within-Group Discrimination of Screening Classifiers
+1. [On the Within-Group Fairness of Screening Classifiers
 ](https://openreview.net/pdf?id=Eni4D5gVBq)  
   *40th International Conference on Machine Learning, ICML 2023*  
   Nastaran Okati, Stratis Tsirtsis, and Manuel Gomez-Rodriguez  
