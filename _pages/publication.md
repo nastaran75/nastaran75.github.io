@@ -71,7 +71,13 @@ author_profile: true
 
   
 ### Preprints
-1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
+1. [Root Cause Analysis of Outliers with Missing Structural Knowledge](https://arxiv.org/pdf/2406.05014)  
+  ***Nastaran Okati***, S.H.G Mejia, W.R Orchard, P. Bloebaum, D. Janzing
+
+ 2. [Towards Human-AI Complementarity with Predictions Sets](https://arxiv.org/pdf/2405.17544)  
+  G. De Toni, ***Nastaran Okati***, S. Thejaswi, E. Straitouri, M. Gomez-Rodriguez
+  
+3. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
   Abir De, ***Nastaran Okati***, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez   
   *Preliminary version of this work appeared in [AAAI 2020](https://ojs.aaai.org//index.php/AAAI/article/view/5645)*  
   [code](https://github.com/Networks-Learning/regression-under-assistance), [slides](https://drive.google.com/file/d/1jUYm36Uelg3G21QswoqcSj-e9X0NN40O/view) 
