@@ -15,13 +15,11 @@ author_profile: true
 <!-- ### Journals -->
 
 ### Conferences
-1. [Towards Human-AI Complementarity with Predictions Sets]
-](https://arxiv.org/pdf/2405.17544)  
+1. [Towards Human-AI Complementarity with Predictions Sets](https://arxiv.org/pdf/2405.17544)  
   *Conference on Neural Information Processing Systems, NeurIPS 2024*  
   G. De Toni, ***Nastaran Okati***, S. Thejaswi, E. Straitouri, M. Gomez-Rodriguez
 
-1. [On the Within-Group Fairness of Screening Classifiers
-](https://openreview.net/pdf?id=Eni4D5gVBq)  
+1. [On the Within-Group Fairness of Screening Classifiers](https://openreview.net/pdf?id=Eni4D5gVBq)  
   *International Conference on Machine Learning, ICML 2023*  
   ***Nastaran Okati***, Stratis Tsirtsis, and Manuel Gomez-Rodriguez  
   [code](https://github.com/Networks-Learning/within-group-monotonicity)
