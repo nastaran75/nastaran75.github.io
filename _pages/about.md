@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Update: I am on the industry and academic job market**
+**Update: I am on the industry and academic job market!**
 
 Welcome! :)
 
