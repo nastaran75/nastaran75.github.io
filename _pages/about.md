@@ -28,7 +28,8 @@ My current (broad) research interests include uncertainty quantification in ML m
 
 In my PhD research, my goal was to design a human-AI synergy that leverages the respective strengths of human and AI while mitigating their respective biases. 
 I demonstrate in a line of work that for optimal joint performance in human-AI teams, we must shift our focus from model-centric optimization to _team-aware learning_. This perspective has inspired the line of research on human-AI complementarity within the human-centric ML literature. 
-In another line of work, I bring attention to the fact that high-stakes decisions made by human-AI teams impact individuals---deciding who receives opportunities---and reshape the distribution of demographic groups in society over time. I identify such biases and propose strategies to mitigate them.
+In another line of work, I bring attention to the fact that high-stakes decisions made by human-AI teams impact individuals---deciding who receives opportunities---and reshape the distribution of demographic groups in society over time. I identify potential biases in such decisions and propose strategies to mitigate them.
 
+In my free time, I enjoy playing squash, cycling, running, and calisthenics!
 
 <!-- I am from [Iran](https://upload.wikimedia.org/wikipedia/commons/1/17/Iran-Pronunciation.ogg) (iːˈɾɒːn and not aɪˈræn) and was born and raised in [Mashhad](https://www.tripadvisor.com/Tourism-g2189612-Mashhad_Razavi_Khorasan_Province-Vacations.html) where I also did my [undergrads](https://en.um.ac.ir/). My family roots can be found in [Zabol](https://www.tripadvisor.com/Tourism-g946416-Zabol_Sistan_and_Baluchistan_Province-Vacations.html). -->
