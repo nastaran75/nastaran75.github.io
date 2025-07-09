@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome! :)
 
-I am Nastaran, a final-year Ph.D student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Kaiserslautern, Germany, where I am advised by (https://www.mpi-sws.org/)[Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/). I recently submitted my PhD thesis on "Predictive Accuracy and Fairness in Human-AI Teams," which contributes to a deeper understanding of opportunities and risks in AI-assisted decision-making.
+I am Nastaran, a final-year Ph.D student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Kaiserslautern, Germany, where I am advised by [Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/). I recently submitted my PhD thesis on "Predictive Accuracy and Fairness in Human-AI Teams," which contributes to a deeper understanding of opportunities and risks in AI-assisted decision-making.
 
 
 During my PhD I interned at [Meta](https://research.facebook.com/teams/cas/), where I worked with [Niek Tax](https://www.linkedin.com/in/niektax/) and [Daniel Haimovich](https://www.linkedin.com/in/daniel-haimovich-b9a49bb5/) on multicalibration of ML models, and I visited [Amazon](https://www.amazon.science/locations/tubingen), where I worked with [Dominik Janzing](https://janzing.github.io/) on root-cause analysis of outliers from a causal perspective. In 2023, I was selected to participate in the [Machine Learning Summer School](https://groups.oist.jp/mlss) in Okinawa.
