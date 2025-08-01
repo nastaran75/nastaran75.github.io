@@ -40,6 +40,9 @@ In my free time, I enjoy playing squash, cycling, running, and calisthenics!
 *Tokenization Workshop at ICML'25 and Information Economics and Large Language Models workshop at EC'25*   
 Ander Artola, Stratis Tsirtsis, ***Nastaran Okati***, and Manuel Gomez-Rodriguez
 
+1. [MCGrad: Multicalibration at Web Scale]()   
+   Lorenzo Perini, Daniel Heimovich, Fridolin Linder, Niek Tax, Dima Karamshuk, ***Nastaran Okati***,   Milan Vojnovic, Pavlos Apostolopoulos (All authors contributed equally)
+
 1. [Measuring Multicalibration](https://arxiv.org/pdf/2506.11251)   
    Ido Guy, Daniel Heimovich, Fridolin Linder, ***Nastaran Okati***, Lorenzo Perini, Niek Tax, Mark Tygert (Alphabetical Author Order)
    
