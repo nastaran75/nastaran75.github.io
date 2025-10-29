@@ -36,15 +36,9 @@ In my free time, I enjoy playing squash, cycling, running, and calisthenics!
 
 **[Publications](https://scholar.google.com/citations?user=3ETK8Z8AAAAJ&hl=en)**
 
-1. [Is Your LLM Overcharging You? Tokenization, Transparency, and Incentives](https://arxiv.org/pdf/2505.21627)   
-*Tokenization Workshop at ICML'25 and Information Economics and Large Language Models workshop at EC'25*   
-Ander Artola, Stratis Tsirtsis, ***Nastaran Okati***, and Manuel Gomez-Rodriguez
-
-1. [MCGrad: Multicalibration at Web Scale]()   
-   Lorenzo Perini, Daniel Heimovich, Fridolin Linder, Niek Tax, Dima Karamshuk, ***Nastaran Okati***,   Milan Vojnovic, Pavlos Apostolopoulos (All authors contributed equally)
-
-1. [Measuring Multicalibration](https://arxiv.org/pdf/2506.11251)   
-   Ido Guy, Daniel Heimovich, Fridolin Linder, ***Nastaran Okati***, Lorenzo Perini, Niek Tax, Mark Tygert (Alphabetical Author Order)
+1. [Root Cause Analysis of Outliers with Missing Structural Knowledge](https://arxiv.org/pdf/2406.05014)  
+  ***Nastaran Okati***, Sergio Hernan Garrido Mejia, William Roy Orchard, Patrick Bloebaum, Dominik Janzing  
+   **NeurIPS 2025**
    
 1. [Towards Human-AI Complementarity with Prediction Sets](https://arxiv.org/pdf/2405.17544)  
   Giovanni De Toni, ***Nastaran Okati***, Suhas Thejaswi, Eleni Straitouri, Manuel Gomez-Rodriguez   
@@ -73,10 +67,17 @@ Ander Artola, Stratis Tsirtsis, ***Nastaran Okati***, and Manuel Gomez-Rodriguez
 
 1. [Computational Approaches for Stochastic Shortest Path on Succinct MDPs](https://www.ijcai.org/Proceedings/2018/0653.pdf)  
   Krishnendu Chatterjee, Hongfei Fu, Amir Goharshady, and ***Nastaran Okati*** (Alphabetical Author Order)   
-  **IJCAI 2018**   
-   
-1. [Root Cause Analysis of Outliers with Missing Structural Knowledge](https://arxiv.org/pdf/2406.05014)  
-  ***Nastaran Okati***, Sergio Hernan Garrido Mejia, William Roy Orchard, Patrick Bloebaum, Dominik Janzing
+  **IJCAI 2018**
+
+1. [Is Your LLM Overcharging You? Tokenization, Transparency, and Incentives](https://arxiv.org/pdf/2505.21627)   
+*Tokenization Workshop at ICML'25 and Information Economics and Large Language Models workshop at EC'25*   
+Ander Artola, Stratis Tsirtsis, ***Nastaran Okati***, and Manuel Gomez-Rodriguez
+
+1. [MCGrad: Multicalibration at Web Scale]()   
+   Lorenzo Perini, Daniel Heimovich, Fridolin Linder, Niek Tax, Dima Karamshuk, ***Nastaran Okati***,   Milan Vojnovic, Pavlos Apostolopoulos (All authors contributed equally)
+
+1. [Measuring Multicalibration](https://arxiv.org/pdf/2506.11251)   
+   Ido Guy, Daniel Heimovich, Fridolin Linder, ***Nastaran Okati***, Lorenzo Perini, Niek Tax, Mark Tygert (Alphabetical Author Order)
 
 1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
   Abir De, ***Nastaran Okati***, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez 
