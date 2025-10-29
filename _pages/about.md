@@ -37,7 +37,8 @@ In my free time, I enjoy playing squash, cycling, running, and calisthenics!
 **[Publications](https://scholar.google.com/citations?user=3ETK8Z8AAAAJ&hl=en)**
 
 1. [Root Cause Analysis of Outliers with Missing Structural Knowledge](https://arxiv.org/pdf/2406.05014)  
-  ***Nastaran Okati***, Sergio Hernan Garrido Mejia, William Roy Orchard, Patrick Bloebaum, Dominik Janzing  
+   ***Nastaran Okati***<sup>\*</sup>, William Roy Orchard<sup>\*</sup>,  Sergio Hernan Garrido Mejia, Patrick Bloebaum, Dominik Janzing  
+   <sup>*</sup>Equal contributions  
    **NeurIPS 2025**
    
 1. [Towards Human-AI Complementarity with Prediction Sets](https://arxiv.org/pdf/2405.17544)  
@@ -57,27 +58,32 @@ In my free time, I enjoy playing squash, cycling, running, and calisthenics!
   **NeurIPS 2021**
 
 1. [Classification Under Human Assistance](https://ojs.aaai.org/index.php/AAAI/article/view/16738)  
-  ***Nastaran Okati***<sup>\*</sup>, Abir De<sup>\*</sup>, Ali Zare-Zadeh and Manuel Gomez-Rodriguez <font size="2">(<sup>*</sup>Equal contribution)</font>  
+  ***Nastaran Okati***<sup>\*</sup>, Abir De<sup>\*</sup>, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
+   <sup>*</sup>Equal contribution  
   **AAAI 2021**
 
 1. [Efficient Parameterized Algorithms for Data Packing](https://dl.acm.org/doi/pdf/10.1145/3290366)   
-  Krishnendu Chatterjee, Amir Goharshady, ***Nastaran Okati***, and Andreas Pavlogiannis (Alphabetical Author Order)  
+  Krishnendu Chatterjee, Amir Goharshady, ***Nastaran Okati***, and Andreas Pavlogiannis  
+  Alphabetical Author Order  
   **POPL 2019**  
  [**IEEE Best Student Paper Award**](https://interface.computer.org/2018-lance-stafford-larson-student-writing-award-winners/)   
 
 1. [Computational Approaches for Stochastic Shortest Path on Succinct MDPs](https://www.ijcai.org/Proceedings/2018/0653.pdf)  
-  Krishnendu Chatterjee, Hongfei Fu, Amir Goharshady, and ***Nastaran Okati*** (Alphabetical Author Order)   
+  Krishnendu Chatterjee, Hongfei Fu, Amir Goharshady, and ***Nastaran Okati***  
+  Alphabetical Author Order  
   **IJCAI 2018**
 
 1. [Is Your LLM Overcharging You? Tokenization, Transparency, and Incentives](https://arxiv.org/pdf/2505.21627)   
 *Tokenization Workshop at ICML'25 and Information Economics and Large Language Models workshop at EC'25*   
 Ander Artola, Stratis Tsirtsis, ***Nastaran Okati***, and Manuel Gomez-Rodriguez
 
-1. [MCGrad: Multicalibration at Web Scale]()   
-   Lorenzo Perini, Daniel Heimovich, Fridolin Linder, Niek Tax, Dima Karamshuk, ***Nastaran Okati***,   Milan Vojnovic, Pavlos Apostolopoulos (All authors contributed equally)
+1. [MCGrad: Multicalibration at Web Scale](https://arxiv.org/pdf/2509.19884)   
+   Lorenzo Perini, Daniel Heimovich, Fridolin Linder, Niek Tax, Dima Karamshuk, ***Nastaran Okati***,   Milan Vojnovic, Pavlos Apostolopoulos  
+   All authors contributed equally
 
 1. [Measuring Multicalibration](https://arxiv.org/pdf/2506.11251)   
-   Ido Guy, Daniel Heimovich, Fridolin Linder, ***Nastaran Okati***, Lorenzo Perini, Niek Tax, Mark Tygert (Alphabetical Author Order)
+   Ido Guy, Daniel Heimovich, Fridolin Linder, ***Nastaran Okati***, Lorenzo Perini, Niek Tax, Mark Tygert  
+   Alphabetical Author Order
 
 1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
   Abir De, ***Nastaran Okati***, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez 
