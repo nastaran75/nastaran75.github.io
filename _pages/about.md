@@ -10,6 +10,8 @@ redirect_from:
 
 **Update: I am on the industry and academic job market!**
 
+
+
 Welcome! :)
 
 I am Nastaran, a final-year Ph.D student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Kaiserslautern, Germany, where I am advised by [Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/). I recently submitted my PhD thesis on "Predictive Accuracy and Fairness in Human-AI Teams," which contributes to a deeper understanding of opportunities and risks in AI-assisted decision-making.
@@ -20,6 +22,13 @@ During my PhD I interned at [Meta](https://research.facebook.com/teams/cas/), wh
 I did my undergrad in computer engineering at Ferdowsi University of Mashhad. During my undergrad I interned at [IST Austria](https://ist.ac.at/en/home/), working with [Amir Goharshady](https://www.cs.ox.ac.uk/people/amir.goharshady/) and [Krishnendu Chatterjee](https://pub.ista.ac.at/~kchatterjee/). Together with Amir, we won the [IEEE best student paper award](https://interface.computer.org/2018-lance-stafford-larson-student-writing-award-winners/) for our [POPL paper](https://dl.acm.org/doi/pdf/10.1145/3290366) on data packing. 
 I also interned at the [Institute of Computational Perception](https://www.jku.at/institut-fuer-computational-perception/) in JKU Linz, working with [Hamid Eghbal-Zadeh](https://eghbalz.github.io/) and [Gerhard Widmer](https://www.jku.at/institut-fuer-computational-perception/ueber-uns/mitarbeiterinnen/gerhard-widmer/). 
 In 2017, I was awarded the [Singapore International Pre-Graduate Award](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) (SIPGA) to visit [A*STAR Bioinformatics Institute](https://www.a-star.edu.sg/bii) in Singapore, where I worked with [Cheng Li](https://www.ece.ualberta.ca/~lcheng5/). During this time, we won the [first place](https://devpost.com/nastaranOKT/challenges) in iNTUition 2017, a hackathon competition at NTU Singapore, together with [Mahdi Abolfazli](https://maesfahani.github.io/). In 2018, I was selected to participate in the [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/forum/past-hlfs/6th-hlf-2018/).
+
+**Recent News**  
+* December 2025: I will be giving a talk at the Social Foundations of Computation lab of MPI for Intelligent Systems!
+* December 2025: Our workshop on [Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home) will be held on **December 7 in EurIPS**!  
+* December 2025: I will be presenting a poster of our **NeurIPS** paper on [Root Cause Analysis of Outliers with Missing Structural Knowledge](https://arxiv.org/pdf/2406.05014) at **EurIPS**! This paper is a result of collaboration with the causality lab of Amazon AWS!   
+* November 2025: Our paper [MCGRAD: Multicalibration at Web Scale](https://arxiv.org/pdf/2509.19884) is accepted at the **KDD Applied Data Science Track**! This paper is a result of collaboration with an amazing team from the Central Applied Science team at Meta.  
+   
 
 **Research Interests**
 
