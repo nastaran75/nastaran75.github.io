@@ -25,7 +25,7 @@ In 2017, I was awarded the [Singapore International Pre-Graduate Award](https://
 
 **Recent News**  
 * December 2025: I will be giving a talk at the Social Foundations of Computation lab of MPI for Intelligent Systems!
-* December 2025: Our workshop on [Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home) will be held on **December 7 in EurIPS**!  
+* December 2025: Our workshop on [Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home) will be held on **December 7 at EurIPS**!  
 * December 2025: I will be presenting a poster of our **NeurIPS** paper on [Root Cause Analysis of Outliers with Missing Structural Knowledge](https://arxiv.org/pdf/2406.05014) at **EurIPS**! This paper is a result of collaboration with the causality lab of Amazon AWS!   
 * November 2025: Our paper [MCGRAD: Multicalibration at Web Scale](https://arxiv.org/pdf/2509.19884) is accepted at the **KDD Applied Data Science Track**! This paper is a result of collaboration with an amazing team from the Central Applied Science team at Meta.  
    
