@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nastaran Okati"
 title_separator          : "-"
 name                     : &name "Nastaran Okati"
-description              : &description "PhD Student at MPI-SWS"
+description              : &description "Research Group Leader at MPI-IS"
 url                      : https://nastaran75.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nastaran75.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nastaran Okati"
   avatar           : "Nastaran-Okati.jpg"
-  bio              : "PhD Student at the <a style='color: black;' href='https://mpi-sws.org'>Max Planck Institute for Software Systems</a>"
-  location         : "Kaiserslautern, Germany"
+  bio              : "Research Group Leader at the <a style='color: black;' href='https://is.mpg.de/en'>Max Planck Institute for Intelligent Systems</a>"
+  location         : "Tübingen, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3ETK8Z8AAAAJ&hl=en"
-  email            : "nastaran[at]mpi-sws[dot]org"
+  email            : "nastaran.okati[at]tuebingen.mpg[dot]de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
