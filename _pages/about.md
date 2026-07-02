@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-**Update: I am on the industry and academic job market!**
-
-
 
 Welcome! :)
 
-I am Nastaran, a final-year Ph.D student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Kaiserslautern, Germany, where I am advised by [Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/). I recently submitted my PhD thesis on "Predictive Accuracy and Fairness in Human-AI Teams," which contributes to a deeper understanding of opportunities and risks in AI-assisted decision-making.
+I am a research group leader in the [Social Foundations of Computation](https://is.mpg.de/sf) department at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/en) in Tübingen, Germany, hosted by [Moritz Hardt](https://mrtz.org).
+
+I completed my Ph.D at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Kaiserslautern, Germany, in 2026, advised by [Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/). My PhD thesis was on "Predictive Accuracy and Fairness in Human-AI Teams," which contributed to a deeper understanding of opportunities and risks in AI-assisted decision-making.
 
 
 During my PhD I interned at [Meta](https://research.facebook.com/teams/cas/), where I worked with [Niek Tax](https://www.linkedin.com/in/niektax/) and [Daniel Haimovich](https://www.linkedin.com/in/daniel-haimovich-b9a49bb5/) on multicalibration of ML models, and I visited [Amazon](https://www.amazon.science/locations/tubingen), where I worked with [Dominik Janzing](https://janzing.github.io/) on root-cause analysis of outliers from a causal perspective. In 2023, I was selected to participate in the [Machine Learning Summer School](https://groups.oist.jp/mlss) in Okinawa.
@@ -24,10 +23,12 @@ I also interned at the [Institute of Computational Perception](https://www.jku.a
 In 2017, I was awarded the [Singapore International Pre-Graduate Award](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) (SIPGA) to visit [A*STAR Bioinformatics Institute](https://www.a-star.edu.sg/bii) in Singapore, where I worked with [Cheng Li](https://www.ece.ualberta.ca/~lcheng5/). During this time, we won the [first place](https://devpost.com/nastaranOKT/challenges) in iNTUition 2017, a hackathon competition at NTU Singapore, together with [Mahdi Abolfazli](https://maesfahani.github.io/). In 2018, I was selected to participate in the [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/forum/past-hlfs/6th-hlf-2018/).
 
 **Recent News**  
-* December 2025: I will be giving a talk at the Social Foundations of Computation lab of MPI for Intelligent Systems!
-* December 2025: Our workshop on [Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home) will be held on **December 7 at EurIPS**!  
+* July 2026: I will be attending **ICML 2026** in Seoul! Our paper [Is Your LLM Overcharging You? Tokenization, Transparency, and Incentives](https://arxiv.org/abs/2505.21627) will be presented there as an **oral presentation**!
+* August 2026: Our paper [MCGRAD: Multicalibration at Web Scale](https://arxiv.org/pdf/2509.19884) will be presented as an **oral presentation at KDD 2026** in Jeju!  
+* January 2026: I successfully defended my PhD!  
+December 2025: Our workshop on [Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home) will be held on **December 7 at EurIPS**!  
 * December 2025: I will be presenting a poster of our **NeurIPS** paper on [Root Cause Analysis of Outliers with Missing Structural Knowledge](https://arxiv.org/pdf/2406.05014) at **EurIPS**! This paper is a result of collaboration with the causality lab of Amazon AWS!   
-* November 2025: Our paper [MCGRAD: Multicalibration at Web Scale](https://arxiv.org/pdf/2509.19884) is accepted at the **KDD Applied Data Science Track**! This paper is a result of collaboration with an amazing team from the Central Applied Science team at Meta.  
+* November 2025: Our paper [MCGRAD: Multicalibration at Web Scale](https://arxiv.org/pdf/2509.19884) is accepted at the **KDD Applied Data Science Track**! This paper is a result of collaboration with an amazing team from the Central Applied Science team at Meta.
    
 
 **Research Interests**
@@ -44,10 +45,14 @@ In my free time, I enjoy playing squash, cycling, running, and calisthenics!
 <!-- I am from [Iran](https://upload.wikimedia.org/wikipedia/commons/1/17/Iran-Pronunciation.ogg) (iːˈɾɒːn and not aɪˈræn) and was born and raised in [Mashhad](https://www.tripadvisor.com/Tourism-g2189612-Mashhad_Razavi_Khorasan_Province-Vacations.html) where I also did my [undergrads](https://en.um.ac.ir/). My family roots can be found in [Zabol](https://www.tripadvisor.com/Tourism-g946416-Zabol_Sistan_and_Baluchistan_Province-Vacations.html). -->
 
 **[Publications](https://scholar.google.com/citations?user=3ETK8Z8AAAAJ&hl=en)**
+1. [Is Your LLM Overcharging You? Tokenization, Transparency, and Incentives](https://arxiv.org/pdf/2505.21627)     
+Ander Artola, Stratis Tsirtsis, ***Nastaran Okati***, and Manuel Gomez-Rodriguez  
+**ICML 2026 <span style="color:#d62728;">(Oral)!</span>**
+
 1. [MCGrad: Multicalibration at Web Scale](https://arxiv.org/pdf/2509.19884)   
    Lorenzo Perini, Daniel Heimovich, Fridolin Linder, Niek Tax, Dima Karamshuk, ***Nastaran Okati***,   Milan Vojnovic, Pavlos Apostolopoulos  
    All authors contributed equally  
-   **KDD ADS Track 2026**
+   **KDD ADS Track 2026 <span style="color:#d62728;">(Oral)!</span>**
 
 1. [Root Cause Analysis of Outliers with Missing Structural Knowledge](https://arxiv.org/pdf/2406.05014)  
    ***Nastaran Okati***<sup>\*</sup>, William Roy Orchard<sup>\*</sup>,  Sergio Hernan Garrido Mejia, Patrick Bloebaum, Dominik Janzing  
@@ -85,10 +90,6 @@ In my free time, I enjoy playing squash, cycling, running, and calisthenics!
   Krishnendu Chatterjee, Hongfei Fu, Amir Goharshady, and ***Nastaran Okati***  
   Alphabetical Author Order  
   **IJCAI 2018**
-
-1. [Is Your LLM Overcharging You? Tokenization, Transparency, and Incentives](https://arxiv.org/pdf/2505.21627)   
-*Tokenization Workshop at ICML'25 and Information Economics and Large Language Models workshop at EC'25*   
-Ander Artola, Stratis Tsirtsis, ***Nastaran Okati***, and Manuel Gomez-Rodriguez
 
 1. [Measuring Multicalibration](https://arxiv.org/pdf/2506.11251)   
    Ido Guy, Daniel Heimovich, Fridolin Linder, ***Nastaran Okati***, Lorenzo Perini, Niek Tax, Mark Tygert  
