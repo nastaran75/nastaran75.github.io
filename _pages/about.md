@@ -37,9 +37,9 @@ December 2025: Our workshop on [Metacognition in Generative AI](https://sites.go
 The ultimate goal of my research is to ensure that Machine Learning (ML) models are efficient, reliable, and safe for those interacting with or affected by them.
 My current (broad) research interests include uncertainty quantification in ML models (for example, using techniques such as conformal prediction and calibration), LLM safety alignment, provenance (e.g., watermarking), efficiency (e.g., speculative decoding), and, more recently, social and economic aspects in generative-AI.  
 
-In my PhD research, my goal was to design a human-AI synergy that leverages the respective strengths of human and AI while mitigating their respective biases. 
+<!-- In my PhD research, my goal was to design a human-AI synergy that leverages the respective strengths of human and AI while mitigating their respective biases. 
 I demonstrate in a line of work that for optimal joint performance in human-AI teams, we must shift our focus from model-centric optimization to _team-aware learning_. This perspective has inspired the line of research on human-AI complementarity within the human-centric ML literature. 
-In another line of work, I bring attention to the fact that high-stakes decisions made by human-AI teams impact individuals---deciding who receives opportunities---and reshape the distribution of demographic groups in society over time. I identify potential biases in such decisions and propose strategies to mitigate them.
+In another line of work, I bring attention to the fact that high-stakes decisions made by human-AI teams impact individuals---deciding who receives opportunities---and reshape the distribution of demographic groups in society over time. I identify potential biases in such decisions and propose strategies to mitigate them. -->
 
 In my free time, I enjoy playing squash, cycling, running, and calisthenics!
 
