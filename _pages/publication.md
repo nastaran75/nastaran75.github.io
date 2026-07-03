@@ -12,8 +12,63 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 
-<!-- ### Journals -->
 
+1. [Is Your LLM Overcharging You? Tokenization, Transparency, and Incentives](https://arxiv.org/pdf/2505.21627)     
+Ander Artola, Stratis Tsirtsis, ***Nastaran Okati***, and Manuel Gomez-Rodriguez  
+**ICML 2026 <span style="color:#d62728;">(Oral)!</span>**
+
+1. [MCGrad: Multicalibration at Web Scale](https://arxiv.org/pdf/2509.19884)   
+   Lorenzo Perini, Daniel Heimovich, Fridolin Linder, Niek Tax, Dima Karamshuk, ***Nastaran Okati***,   Milan Vojnovic, Pavlos Apostolopoulos  
+   All authors contributed equally  
+   **KDD ADS Track 2026 <span style="color:#d62728;">(Oral)!</span>**
+
+1. [Root Cause Analysis of Outliers with Missing Structural Knowledge](https://arxiv.org/pdf/2406.05014)  
+   ***Nastaran Okati***<sup>\*</sup>, William Roy Orchard<sup>\*</sup>,  Sergio Hernan Garrido Mejia, Patrick Bloebaum, Dominik Janzing  
+   <sup>*</sup>Equal contributions  
+   **NeurIPS 2025**
+   
+1. [Towards Human-AI Complementarity with Prediction Sets](https://arxiv.org/pdf/2405.17544)  
+  Giovanni De Toni, ***Nastaran Okati***, Suhas Thejaswi, Eleni Straitouri, Manuel Gomez-Rodriguez   
+ **NeurIPS 2024**
+
+1. [On the Within-Group Fairness of Screening Classifiers](https://openreview.net/pdf?id=Eni4D5gVBq)  
+  ***Nastaran Okati***, Stratis Tsirtsis, and Manuel Gomez-Rodriguez  
+  **ICML 2023** 
+  
+1. [Improving Expert Predictions with Conformal Prediction](https://proceedings.mlr.press/v202/straitouri23a/straitouri23a.pdf)  
+  Eleni Straitouri, Lequng Wang, ***Nastaran Okati***, Manuel Gomez-Rodriguez  
+ **ICML 2023**  
+  
+1. [Differentiable Learning Under Triage](https://openreview.net/pdf?id=bdA60x7yG0T)  
+  ***Nastaran Okati***, Abir De, and Manuel Gomez-Rodriguez  
+  **NeurIPS 2021**
+
+1. [Classification Under Human Assistance](https://ojs.aaai.org/index.php/AAAI/article/view/16738)  
+  ***Nastaran Okati***<sup>\*</sup>, Abir De<sup>\*</sup>, Ali Zare-Zadeh and Manuel Gomez-Rodriguez  
+   <sup>*</sup>Equal contribution  
+  **AAAI 2021**
+
+1. [Efficient Parameterized Algorithms for Data Packing](https://dl.acm.org/doi/pdf/10.1145/3290366)   
+  Krishnendu Chatterjee, Amir Goharshady, ***Nastaran Okati***, and Andreas Pavlogiannis  
+  Alphabetical Author Order  
+  **POPL 2019**  
+ [**IEEE Best Student Paper Award**](https://interface.computer.org/2018-lance-stafford-larson-student-writing-award-winners/)   
+
+1. [Computational Approaches for Stochastic Shortest Path on Succinct MDPs](https://www.ijcai.org/Proceedings/2018/0653.pdf)  
+  Krishnendu Chatterjee, Hongfei Fu, Amir Goharshady, and ***Nastaran Okati***  
+  Alphabetical Author Order  
+  **IJCAI 2018**
+
+1. [Measuring Multicalibration](https://arxiv.org/pdf/2506.11251)   
+   Ido Guy, Daniel Heimovich, Fridolin Linder, ***Nastaran Okati***, Lorenzo Perini, Niek Tax, Mark Tygert  
+   Alphabetical Author Order
+
+1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
+  Abir De, ***Nastaran Okati***, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez 
+
+
+<!-- ### Journals -->
+<!-- 
 ### Conferences
 1. [Towards Human-AI Complementarity with Predictions Sets](https://arxiv.org/pdf/2405.17544)  
   *Conference on Neural Information Processing Systems, NeurIPS 2024*  
@@ -82,7 +137,7 @@ Ander Artola, Stratis Tsirtsis, **Nastaran Okati***, and Manuel Gomez-Rodriguez
    I. Guy, D. Heimovich, F. Linder, ***Nastaran Okati***, L. Perini, N. Tax, M. Tygert (Alphabetical Author Order)
    
 1. [Root Cause Analysis of Outliers with Missing Structural Knowledge](https://arxiv.org/pdf/2406.05014)  
-  ***Nastaran Okati***, S.H.G Mejia, W.R Orchard, P. Bloebaum, D. Janzing
+  ***Nastaran Okati***, S.H.G Mejia, W.R Orchard, P. Bloebaum, D. Janzing -->
   
 <!--- 1. [Regression Under Human Assistance](https://arxiv.org/abs/1909.02963)  
   A. De, ***Nastaran Okati***, P. Koley, N. Ganguly, and M. Gomez-Rodriguez   
