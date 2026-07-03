@@ -13,7 +13,8 @@ Welcome! :)
 
 I am a research group leader in the [Social Foundations of Computation](https://is.mpg.de/sf) department at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/en) in Tübingen, Germany, hosted by [Moritz Hardt](https://mrtz.org).
 
-I completed my Ph.D at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Kaiserslautern, Germany, in 2026, advised by [Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/). My PhD thesis was on "Predictive Accuracy and Fairness in Human-AI Teams," which contributed to a deeper understanding of opportunities and risks in AI-assisted decision-making.
+I completed my Ph.D at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Kaiserslautern, Germany, in 2026, advised by [Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/). My PhD thesis was on "Predictive Accuracy and Fairness in Human-AI Teams".
+<!-- which contributed to a deeper understanding of opportunities and risks in AI-assisted decision-making. -->
 
 
 During my PhD I interned at [Meta](https://research.facebook.com/teams/cas/), where I worked with [Niek Tax](https://www.linkedin.com/in/niektax/) and [Daniel Haimovich](https://www.linkedin.com/in/daniel-haimovich-b9a49bb5/) on multicalibration of ML models, and I visited [Amazon](https://www.amazon.science/locations/tubingen), where I worked with [Dominik Janzing](https://janzing.github.io/) on root-cause analysis of outliers from a causal perspective. In 2023, I was selected to participate in the [Machine Learning Summer School](https://groups.oist.jp/mlss) in Okinawa.
